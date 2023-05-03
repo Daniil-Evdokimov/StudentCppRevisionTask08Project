@@ -31,7 +31,7 @@
  *	[ input 5]: 2 4 8 16
  *	[output 5]: No arithmetic progression.
  */
-
+ 
 string task02(int a, int b, int c, int d) {
 	string msg = " ";
 

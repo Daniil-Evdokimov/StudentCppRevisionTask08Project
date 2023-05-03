@@ -23,7 +23,7 @@
  *	[output 3]: 0
  *
  *	[ input 4]: 5 7 7
- *	[output 4]: 0
+ *	[output 4]: 0 
  */
 
 int task06(int a, int b, int c) {
@@ -45,4 +45,4 @@ int task06(int a, int b, int c) {
             }
         }
     }
-}
+} 

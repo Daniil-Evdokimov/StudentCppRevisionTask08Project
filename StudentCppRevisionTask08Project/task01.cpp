@@ -22,7 +22,7 @@
  *
  *	[ input 4]: 6 7 8 9
  *	[output 4]: 0
- */
+ */ 
 
 int task01(int a, int b, int c, int d) {
 	if (a == b and b == c && c == d) {

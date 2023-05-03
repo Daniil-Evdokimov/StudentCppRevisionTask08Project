@@ -61,7 +61,7 @@ string taskX(int a1, int b1, int c1, int a2, int b2, int c2) {
 	if (b2 >= c2) {
 		swap(b2, c2);
 	}
-	if (a2 >= b2) {
+	if (a2 >= b2) { 
 		swap(a2, b2);
 	}
 

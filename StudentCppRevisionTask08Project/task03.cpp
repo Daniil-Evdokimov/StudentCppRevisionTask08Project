@@ -18,7 +18,7 @@
  * 
  *	[ input 3]: -1 -2 -3 -4
  *	[output 3]: -4
- */
+ */ 
 
 int task03(int a, int b, int c, int d) {
 	return (a < b) && (a < c) && (a < d) ? a : (b < a) && (b < c) && (b < d) ? b : (c < a) && (c < b) && (c < d) ? c : d;
